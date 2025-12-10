@@ -13,7 +13,7 @@ Son *criterios* utilizados para la **evaluación del desempeño de una empresa**
 
 Esto es importante en una empresa tecnológica porque los empleados buscan trabajar en empresas con un propósito y valores sólidos que vayan más allá de los beneficios económicos. Al igual que los inversores y accionistas utilizan estos criterios para evaluar el riesgo y la sostenibilidad de una empresa a largo plazo, ya que un buen puntuaje puede facilitar el acceso a capital de inversión. Además, adoptar estos criterios fortalece la imagen de una empresa, genera confianza entre los consumidores y las partes interesadas, y la protege de posibles crisis reputacionales. Asimismo, impulsa la innovación, anticipa a futuros cambios legislativos para evitar sanciones indeseadas y puede ser requisito para participar en concursos públicos o para ser proveedor de otras grandes empresas que priorizan la sostenibilidad.
 
-##Marcos internacionales que imoulsan la sostenibilidad 
+## Marcos internacionales que impulsan la sostenibilidad 
 - *Agenda 2030* : para el Desarrollo Sostenible: Un plan de acción global con 17 (Objetviso de Desarrollo Sostenible )ODS que buscan poner fin a la pobreza, proteger el planeta y garantizar la prosperidad para todos en 2030. 
 - *Acuerdo de París* : Un acuerdo internacional sobre el cambio climático que tiene como propósito limitar el calentamiento global.
 - *Marco de Sendai* : Marco de acción que busca reducir el riesgo de desastres y las pérdidas en vidas.
