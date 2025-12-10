@@ -56,7 +56,7 @@ Como hemos mencionado anteriormente, la *implementación* de **satélites** y **
 |Problemas socioeconomicos de pescadores| Perdida de empleo, inseguridad alimentaria| Apps de trazabilidad, herramientas digitales de gestión de capturas, formación tecnológica.|
 
 ## Otros ODS relacionados
-[ODS 9 INDUSTRIA INNOVACION E INFRAESTRUCUTRA (SARA)](https://srojgam0907.github.io/SASP_Fase1_Webods09-Industria-innovacion-e-infraestructura/)
+[ODS 9 INDUSTRIA INNOVACION E INFRAESTRUCUTRA (SARA)](https://srojgam0907.github.io/SASP_Fase1_Web/ods09-Industria-innovacion-e-infraestructura/)
 
 [ODS 4 EDUCACIÓN DE CALIDAD (FEDERICO)](https://ftorsuc2608.github.io/SASP_Fase1_AmpliacionContenido/#ods04-EducacionDeCalidad/)
 
