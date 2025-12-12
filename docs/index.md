@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# Bienvenidos a una página creada en Markdown
+Este proyecto fue realizado para el modulo de *Sostenibilidad Aplicada al Sistema Aplicado* para el Ciclo de Formación de Grado Superior Desarrolllo de Aplicaciones Multiplataforma *(DAM)* para el curso 2025/2026
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Páginas que vas a encontrar 
 
-## Commands
+[Sostenibilidad](sostenibilidad.md)
+[Reflexion](reflexion.md)
+[Objetivos de Desarrollo Sostenible (ODS)](ods.md)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Espero que pueda disfrutar sobre el contenido de esta página web. 
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Trabajo realizado por: Raquel González Carrillo. 

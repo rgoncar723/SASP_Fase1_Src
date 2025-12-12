@@ -12,12 +12,15 @@ Este ODS puede tener una relación estrecha con la tecnología, de la cuales pod
 #Problema con la tecnología
 - *Sobrepesca y pesca ilegal (INDNR)*: Esto produce la disminución de la población de peces y destruye ecosistemas.
 -  *Contaminación marina*: Los residuos plásticos, vertidos industriales, aguas residuales y microplásticos afectan la salud marina y humana.
--  *Cambio climático y acidificación*: Hay una amenaza importante a los arrecifes, puesto que esto conlleva a que las especies deban modificar sus rutas migratorias, al igual que a la destrucción de sus hábitats y a las comunidades costeras, cuya economía dependa del turismo o de la pesca. 
-#Influencia en esos problemas 
+-  *Cambio climático y acidificación*: Hay una amenaza importante a los arrecifes, puesto que esto conlleva a que las especies deban modificar sus rutas migratorias, al igual que a la destrucción de sus hábitats y a las comunidades costeras, cuya economía dependa del turismo o de la pesca.
+
+# Influencia en esos problemas 
 La tecnología nos permite *vigilar* y *proteger* zonas marítimas 24/7, *reduce* la pesca ilegal mediante distintos dispositivos trazables, además de que *mejora* la dirección precoz de contaminación y gracias a otros ODS a la promoción de energías más limpias. No obstante, también esta genera residuos tecnológicos, que son altamente dañinos para las especies y los océanos, así como el transporte marítimo intensivo genera CO2 y ruido submarino presente en ciudades costeras que tengan puerto como el caso de Algeciras; además, existen tecnologías de pesca industrial que pueden llegar a la sobreexplotación si no se regula de manera adecuada. 
-#Soluciones tecnologicas 
+
+# Soluciones tecnologicas 
 Como hemos mencionado anteriormente, la *implementación* de **satélites** y **drones** para la pesca ilegal. Así como **barreras inteligentes** para capturar basura en ríos antes de llegar al mar, además de herramientas que nos permitan realizar un **mapeo 3D submarino** para el estudio de la topografía y la biodiversidad marina. También, la **construcción** de robots y drones para limpieza de basura y una impresión 3D para reconstruir corales. 
-#Ejemplos 
+
+# Ejemplos 
 1. Realiza monitoreo satelital de flotas pesqueras 
 [Global Fishing Watch](https://globalfishingwatch.org/)
 2. Relizan la captura plástico en océano y rios
@@ -30,6 +33,7 @@ Como hemos mencionado anteriormente, la *implementación* de **satélites** y **
 [PecaData](https://pescadata.org/)
 6. IA para identificar capturas
 [FishFace- The Nature Conservancy](https://www.nature.org/)
+
 # Indicadores
 - Indicadores oficiales ONU:
 
