@@ -35,14 +35,16 @@ Como hemos mencionado anteriormente, la *implementación* de **satélites** y **
 [FishFace- The Nature Conservancy](https://www.nature.org/)
 
 # Indicadores
-- Indicadores oficiales ONU:
+
+Indicadores oficiales ONU:
 
 1. 14.1.1: Índice de eutrofización (proceso de contaminación de ecosistemas acuáticos que se produce por el exceso de nutrientes, principalmente nitrógeno y fósforo) y densidad de plásticos en zonas costeras.
 2. 14.4.1: Porcentaje de poblaciones de peces dentro de niveles sostenibles.
 3. 14.5.1: Cobertura de áreas marinas protegidas
 4. 14.6.1: Avance en medidas contra la pesca ilegal.
 5. 14.7.1 Contribución económica sostenible de industrias marinas.
-- Indicadores tecnologicos adicionales:
+
+Indicadores tecnologicos adicionales:
 
 1. Número de sensores oceánicos instalados.
 2. Horas de vigilancia satelital sobre zonas pesqueras.
